@@ -1,0 +1,80 @@
+[
+    {
+        "sourcetext": "test01",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "天空盒01"
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "房间",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "城市",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "test02",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "天空盒02"
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "自然",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "test03",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "天空盒03"
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    }
+]

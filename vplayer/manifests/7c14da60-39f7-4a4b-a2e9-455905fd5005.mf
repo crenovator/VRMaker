@@ -1,0 +1,14 @@
+{ 
+  "guid": "7c14da60-39f7-4a4b-a2e9-455905fd5005", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "78d292d9-1625-4703-beba-d5da0f54e6da", 
+      "tags": [ 
+        "Huali"
+        ], 
+      "alias": "Pear"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{ 
+  "guid": "c58e3636-b9c8-4e88-9616-dc0e32a1f593", 
+  "group": "agent/ground", 
+  "alias": "ground", 
+  "files": [ 
+    { 
+      "file": "e5260cc5-f596-4bf5-b9b3-fc57121b0ccf", 
+      "tags": [ 
+        ], 
+      "alias": "Soil"
+      }
+    ]
+  }

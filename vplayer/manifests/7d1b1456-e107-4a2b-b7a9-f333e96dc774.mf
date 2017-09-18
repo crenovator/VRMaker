@@ -1,0 +1,14 @@
+{ 
+  "guid": "7d1b1456-e107-4a2b-b7a9-f333e96dc774", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "83b839e1-4548-45d7-871d-c36cd38ec2ff", 
+      "tags": [ 
+        "Water"
+        ], 
+      "alias": "Water"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{ 
+  "guid": "b0c4986a-3521-4b86-b1b3-64089c4ede18", 
+  "group": "agent/plants", 
+  "alias": "plants", 
+  "files": [ 
+    { 
+      "file": "4ca9b7b1-53d4-4cf0-abd0-512cbda7067c", 
+      "tags": [ 
+        ], 
+      "alias": "Coconut trees1"
+      }
+    ]
+  }

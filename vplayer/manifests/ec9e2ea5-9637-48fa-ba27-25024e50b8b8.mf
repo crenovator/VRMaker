@@ -1,0 +1,13 @@
+{ 
+  "guid": "ec9e2ea5-9637-48fa-ba27-25024e50b8b8", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "5b0263ae-ae4b-4257-85c9-c2beccca01fb", 
+      "tags": [ 
+        ], 
+      "alias": "Sea bream"
+      }
+    ]
+  }

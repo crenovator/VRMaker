@@ -1,0 +1,67 @@
+ManifestFileVersion: 0
+CRC: 2288193957
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: 0125efbb-fded-42b6-9b86-278187f6ca2b
+      Dependencies: {}
+    Info_1:
+      Name: 30085beb-9283-4fab-a904-def4277c240e
+      Dependencies: {}
+    Info_2:
+      Name: 49711805-14e1-4600-89cd-a721d6e96716
+      Dependencies: {}
+    Info_3:
+      Name: 0ff8c7f1-7b08-4676-91f4-648c350286ce
+      Dependencies: {}
+    Info_4:
+      Name: bf1b6ab3-2e52-4953-b864-fdaad9e00ecc
+      Dependencies: {}
+    Info_5:
+      Name: 775b97de-7f37-4746-89d3-ebcd542eda68
+      Dependencies: {}
+    Info_6:
+      Name: adcfbc24-034c-47b1-bcf9-a455abeb8318
+      Dependencies: {}
+    Info_7:
+      Name: 13f32627-3333-45d7-b108-4cc8f6c93e41
+      Dependencies: {}
+    Info_8:
+      Name: 47a89ede-f8cc-492d-819f-d80cc72d4328
+      Dependencies: {}
+    Info_9:
+      Name: 74498e6b-3d93-40c4-a03d-ffae2f9eb4da
+      Dependencies: {}
+    Info_10:
+      Name: e839baaa-552f-422b-8dc4-14dd320f8cb6
+      Dependencies: {}
+    Info_11:
+      Name: be693472-2b7c-4b74-849a-c424627af7f2
+      Dependencies: {}
+    Info_12:
+      Name: 5de26d4e-3686-486d-8e90-a6694fc10bf7
+      Dependencies: {}
+    Info_13:
+      Name: fd7248c0-946c-4f51-9f9e-971c23bc5c13
+      Dependencies: {}
+    Info_14:
+      Name: 9cea20c0-2fcd-4330-8e93-766dfcfd1531
+      Dependencies: {}
+    Info_15:
+      Name: a1568ec2-6019-453f-a686-28045a3e3c61
+      Dependencies: {}
+    Info_16:
+      Name: 1fef12c4-d9d1-44b2-b2f2-937a23d51d51
+      Dependencies: {}
+    Info_17:
+      Name: 5b0a11cf-b12a-4d69-ab47-f3e00e8d32c0
+      Dependencies: {}
+    Info_18:
+      Name: acfa2379-8632-4548-858a-003f630c2fc5
+      Dependencies: {}
+    Info_19:
+      Name: 68cd8b8c-cbe3-4ad9-8d3d-f1d272d30202
+      Dependencies: {}
+    Info_20:
+      Name: 41ec719d-6933-4512-9fb0-1e5705d8d66a
+      Dependencies: {}

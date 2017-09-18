@@ -1,0 +1,14 @@
+{ 
+  "guid": "606c2d8b-7437-48a7-ada3-eb4436ea269a", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "616d45b2-0088-457f-9293-80f200f5484c", 
+      "tags": [ 
+        "Block"
+        ], 
+      "alias": "Block"
+      }
+    ]
+  }

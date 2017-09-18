@@ -1,0 +1,13 @@
+{ 
+  "guid": "0ca94e01-a1f8-4d89-a235-1102bafb7eae", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "ccaafd36-f0c4-4396-ac75-340237d8f47e", 
+      "tags": [ 
+        ], 
+      "alias": "Crocodile"
+      }
+    ]
+  }

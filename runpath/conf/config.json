@@ -1,0 +1,14 @@
+{
+    "language":"en_US",
+    "remote.location":"vrmakerd",
+    "remote.port.upload":17362,
+    "remote.uri.upload":"/upload/",
+    "appname":"vrmaker",
+    "appsecret":"da6a9687ba0dd6c1027b780f79ec910d",
+    "api.kms":"http://testing.ainck.com:8000",
+    "device.name":"idealens",
+    "device.platform":"android",
+    "device.android.persistentpath.idealens":"/sdcard/Android/data/com.ainck.vplayer/files",
+    "creatord":"false",
+    "svm.format":"lua"
+}

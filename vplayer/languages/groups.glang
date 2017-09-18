@@ -1,0 +1,288 @@
+﻿[
+    {
+        "sourcetext": "skybox/city",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "背景/城市"
+            },
+            {
+                "language": "en_US",
+                "targettext": "Skybox/City"
+            }
+        ]
+    },
+    {
+        "sourcetext": "skybox/venues",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "背景/场馆"
+            },
+            {
+                "language": "en_US",
+                "targettext": "Skybox/Venues"
+            }
+        ]
+    },
+    {
+        "sourcetext": "skybox/nature",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "背景/自然"
+            },
+            {
+                "language": "en_US",
+                "targettext": "Skybox/Nature"
+            }
+        ]
+    },
+    {
+        "sourcetext": "skybox/square",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "背景/广场"
+            },
+            {
+                "language": "en_US",
+                "targettext": "Skybox/Square"
+            }
+        ]
+    },
+    {
+        "sourcetext": "sound/huangshan",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "声音/黄山"
+            },
+            {
+                "language": "en_US",
+                "targettext": "Sound/Huangshan"
+            }
+        ]
+    },
+    {
+        "sourcetext": "agent/indoor",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "Props/Indoor"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "道具/室内"
+            }
+        ]
+    },
+    {
+        "sourcetext": "agent/planet",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "Props/Planet"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "道具/星球"
+            }
+        ]
+    },
+ {
+        "sourcetext": "sound/background",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "Sound/Background Music"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "声音/背景音乐"
+            }
+        ]
+    },
+    {
+        "sourcetext": "sound/voice",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "Sound/Introduction"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "声音/介绍"
+            }
+        ]
+    },
+    {
+        "sourcetext": "UGC/IMAGE",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "UGC/IMAGE"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "自制/图片"
+            }
+        ]
+    },
+    {
+        "sourcetext": "UGC/SOUND",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "UGC/SOUND"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "自制/声音"
+            }
+        ]
+    },
+    {
+        "sourcetext": "agent/sence",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "Props/Theme"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "道具/主题"
+            }
+        ]
+    },
+{
+        "sourcetext": "agent/plants",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "VR World/Plants"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "VR世界/植物"
+            }
+        ]
+    },
+ {
+        "sourcetext": "agent/ground",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "VR World/Terrain"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "VR世界/地形"
+            }
+        ]
+    },
+{
+        "sourcetext": "agent/cloud",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "VR World/Cloud"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "VR世界/云"
+            }
+        ]
+    },
+{
+        "sourcetext": "agent/cube",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "VR World/Cubes"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "VR世界/方块"
+            }
+        ]
+    },
+{
+        "sourcetext": "skybox/skybox",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "Skybox/VR World Sky"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "背景/VR世界天空"
+            }
+        ]
+    },
+ {
+        "sourcetext": "agent/physical",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "道具/物理器材"
+            },
+            {
+                "language": "en_US",
+                "targettext": "Props/Physical Equipment"
+            }
+        ]
+    },
+{
+        "sourcetext": "agent/special effects",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "道具/特效"
+            },
+            {
+                "language": "en_US",
+                "targettext": "Props/Special Effects"
+            }
+        ]
+    },
+{
+        "sourcetext": "agent/chemical",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "道具/化学器材"
+            },
+            {
+                "language": "en_US",
+                "targettext": "Props/Chemical Equipment"
+            }
+        ]
+    },
+ {
+        "sourcetext": "agent/animal",
+        "translators": [
+            {
+                "language": "en_US",
+                "targettext": "VR World/Animals"
+            },
+            {
+                "language": "zh_CN",
+                "targettext": "VR世界/动物"
+            }
+        ]
+    },
+    {
+        "sourcetext": "skybox/space",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "背景/星空"
+            },
+            {
+                "language": "en_US",
+                "targettext": "Skybox/Space"
+            }
+        ]
+    }
+]

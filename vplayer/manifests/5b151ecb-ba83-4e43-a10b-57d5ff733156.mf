@@ -1,0 +1,13 @@
+{ 
+  "guid": "5b151ecb-ba83-4e43-a10b-57d5ff733156", 
+  "group": "agent/plants", 
+  "alias": "plants", 
+  "files": [ 
+    { 
+      "file": "8ebd23e5-a7ae-49f6-8eb4-2dbab06b1e07", 
+      "tags": [ 
+        ], 
+      "alias": "Big tree2"
+      }
+    ]
+  }

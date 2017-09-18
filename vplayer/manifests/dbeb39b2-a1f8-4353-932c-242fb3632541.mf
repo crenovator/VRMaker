@@ -1,0 +1,13 @@
+{ 
+  "guid": "dbeb39b2-a1f8-4353-932c-242fb3632541", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "1e0d3872-7edd-4d2d-8da3-a672d5be7ac0", 
+      "tags": [ 
+        ], 
+      "alias": "Rhinoceros"
+      }
+    ]
+  }

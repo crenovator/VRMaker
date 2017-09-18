@@ -1,0 +1,13 @@
+{ 
+  "guid": "cec1ab22-b2b7-4d89-ae8e-20c4d3872898", 
+  "group": "agent/ground", 
+  "alias": "ground", 
+  "files": [ 
+    { 
+      "file": "84a5a580-b5c7-4ff9-974d-b54cd760ca15", 
+      "tags": [ 
+        ], 
+      "alias": "Mountain peak"
+      }
+    ]
+  }

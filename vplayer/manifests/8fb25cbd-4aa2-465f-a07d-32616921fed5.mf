@@ -1,0 +1,13 @@
+{ 
+  "guid": "8fb25cbd-4aa2-465f-a07d-32616921fed5", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "64565a63-6248-42ac-8e6d-fbae3207b92e", 
+      "tags": [ 
+        ], 
+      "alias": "Hippo"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{ 
+  "guid": "30b22266-7ad3-4c06-8875-c0b91b254648", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "0fe608f1-112c-411a-b917-1f1588989130", 
+      "tags": [ 
+        "Dirt"
+        ], 
+      "alias": "Soil3"
+      }
+    ]
+  }

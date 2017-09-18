@@ -1,0 +1,13 @@
+{ 
+  "guid": "768d2843-7621-4773-89b8-df65231a2bc4", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "57b08e1f-66cf-46eb-bc9c-9736bafdb405", 
+      "tags": [ 
+        ], 
+      "alias": "Grizzlies"
+      }
+    ]
+  }

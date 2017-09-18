@@ -1,0 +1,13 @@
+{ 
+  "guid": "2a0bb976-77b0-4b48-be8d-87a9f6594a6f", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "e6265556-898d-42ca-96af-7ddfcbfdaf25", 
+      "tags": [ 
+        ], 
+      "alias": "Giant whale"
+      }
+    ]
+  }

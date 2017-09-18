@@ -1,0 +1,13 @@
+{ 
+  "guid": "d93957a8-3eb0-4443-96bc-099ed63ac711", 
+  "group": "agent/ground", 
+  "alias": "ground", 
+  "files": [ 
+    { 
+      "file": "2f1432fc-b99b-4f62-ac18-d2666e81a8c1", 
+      "tags": [ 
+        ], 
+      "alias": "Grassland3"
+      }
+    ]
+  }

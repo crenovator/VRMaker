@@ -1,0 +1,13 @@
+{ 
+  "guid": "44d771d8-f884-4f4a-a362-d27eae40af7a", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "76e86c24-8593-47fd-a2fc-33bae486caaf", 
+      "tags": [ 
+        ], 
+      "alias": "Basking shark"
+      }
+    ]
+  }

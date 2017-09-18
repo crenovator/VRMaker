@@ -1,0 +1,14 @@
+{ 
+  "guid": "3f543e96-041e-40a6-b2d4-3d868a2f828e", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "836bcda7-5bb5-4795-ba8a-bcf5f212e629", 
+      "tags": [ 
+        "Snow"
+        ], 
+      "alias": "Snowflake"
+      }
+    ]
+  }

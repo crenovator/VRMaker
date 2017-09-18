@@ -1,0 +1,14 @@
+{ 
+  "guid": "7bb918e7-b4c4-49f1-b6a8-60827e7b07d7", 
+  "group": "agent/cube", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "534816d5-64bd-489f-8233-140451e0d614", 
+      "tags": [ 
+        "Hetaomu"
+        ], 
+      "alias": "Walnut"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{ 
+  "guid": "e85740c5-f156-40fa-a61b-e714cee5cb1d", 
+  "group": "agent/plants", 
+  "alias": "plants", 
+  "files": [ 
+    { 
+      "file": "b7a20166-3941-4175-a93e-0a815d85b5e8", 
+      "tags": [ 
+        ], 
+      "alias": "Pine4"
+      }
+    ]
+  }

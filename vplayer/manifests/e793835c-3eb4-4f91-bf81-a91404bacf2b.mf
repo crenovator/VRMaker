@@ -1,0 +1,14 @@
+{ 
+  "guid": "e793835c-3eb4-4f91-bf81-a91404bacf2b", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "92319ac0-c926-4294-b775-127a2aa9ad5e", 
+      "tags": [ 
+        "Fire"
+        ], 
+      "alias": "Flame"
+      }
+    ]
+  }

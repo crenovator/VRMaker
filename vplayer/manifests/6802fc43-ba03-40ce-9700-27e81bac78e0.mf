@@ -1,0 +1,13 @@
+{ 
+  "guid": "6802fc43-ba03-40ce-9700-27e81bac78e0", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "13ac65d0-caae-4c8a-b0bc-35668650f3a7", 
+      "tags": [ 
+        ], 
+      "alias": "Goat"
+      }
+    ]
+  }

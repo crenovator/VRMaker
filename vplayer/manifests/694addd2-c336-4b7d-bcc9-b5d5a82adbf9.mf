@@ -1,0 +1,13 @@
+{ 
+  "guid": "694addd2-c336-4b7d-bcc9-b5d5a82adbf9", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "3cd17b7d-2149-449c-8ba8-e47eeee131ec", 
+      "tags": [ 
+        ], 
+      "alias": "Crow"
+      }
+    ]
+  }

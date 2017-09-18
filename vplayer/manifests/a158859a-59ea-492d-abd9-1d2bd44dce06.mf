@@ -1,0 +1,13 @@
+{ 
+  "guid": "a158859a-59ea-492d-abd9-1d2bd44dce06", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "374b5b41-3342-484d-bcde-48c3ae921245", 
+      "tags": [ 
+        ], 
+      "alias": "Public dolphin"
+      }
+    ]
+  }

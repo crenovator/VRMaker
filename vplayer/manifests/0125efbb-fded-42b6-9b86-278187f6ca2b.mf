@@ -1,0 +1,14 @@
+{ 
+  "guid": "0125efbb-fded-42b6-9b86-278187f6ca2b", 
+  "group": "skybox/skybox", 
+  "alias": "skybox", 
+  "files": [ 
+    { 
+      "file": "8b0f048b-86fc-4928-9b7d-e743ac2d6095", 
+      "tags": [ 
+        "Skybox"
+        ], 
+      "alias": "VR world - night 02"
+      }
+    ]
+  }

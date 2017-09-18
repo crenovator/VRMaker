@@ -1,0 +1,13 @@
+{ 
+  "guid": "5e75889a-a045-4447-a650-fa1d807e9496", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "7b2ed6cb-db70-4180-8d51-02edca3422f9", 
+      "tags": [ 
+        ], 
+      "alias": "Male lion"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{ 
+  "guid": "b24d4616-8bce-4794-a3a4-9d1efbcb91a8", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "8aae2e6a-551d-4a3e-ba7c-72788f7ced3e", 
+      "tags": [ 
+        ], 
+      "alias": "Sheep"
+      }
+    ]
+  }

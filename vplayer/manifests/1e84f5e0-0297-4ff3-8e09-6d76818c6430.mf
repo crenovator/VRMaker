@@ -1,0 +1,13 @@
+{ 
+  "guid": "1e84f5e0-0297-4ff3-8e09-6d76818c6430", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "6f7287d2-5424-4c7e-9da8-ea87419654be", 
+      "tags": [ 
+        ], 
+      "alias": "Giraffe"
+      }
+    ]
+  }

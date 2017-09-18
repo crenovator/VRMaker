@@ -1,0 +1,13 @@
+{ 
+  "guid": "89263157-09e0-4c83-8a8f-25a7ec15be36", 
+  "group": "agent/plants", 
+  "alias": "plants", 
+  "files": [ 
+    { 
+      "file": "2a0ff5c8-7974-4e18-9a82-dd36eb7e81e3", 
+      "tags": [ 
+        ], 
+      "alias": "Flowers1"
+      }
+    ]
+  }

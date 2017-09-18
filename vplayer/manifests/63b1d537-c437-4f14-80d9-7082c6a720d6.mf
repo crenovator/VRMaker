@@ -1,0 +1,14 @@
+{ 
+  "guid": "63b1d537-c437-4f14-80d9-7082c6a720d6", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "829e2fee-ed42-4eca-ab53-599d93a9a797", 
+      "tags": [ 
+        "Huamu"
+        ], 
+      "alias": "Birch"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{ 
+  "guid": "0b263a98-1919-4871-825c-cce7e4efa2f8", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "e5199b3a-e1ed-441b-b027-c4e7e2dbcb38", 
+      "tags": [ 
+        "Brick"
+        ], 
+      "alias": "Bricks1"
+      }
+    ]
+  }

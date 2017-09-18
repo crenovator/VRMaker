@@ -1,0 +1,13 @@
+{ 
+  "guid": "a75f1fdd-d166-444e-88b3-54018c211930", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "8de1acb9-516e-4fb3-b831-b5cebd18d44c", 
+      "tags": [ 
+        ], 
+      "alias": "Sparrow"
+      }
+    ]
+  }

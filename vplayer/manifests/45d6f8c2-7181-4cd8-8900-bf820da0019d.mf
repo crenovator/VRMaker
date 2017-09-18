@@ -1,0 +1,13 @@
+{ 
+  "guid": "45d6f8c2-7181-4cd8-8900-bf820da0019d", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "46cb5659-bdcc-4087-a593-24a243c752db", 
+      "tags": [ 
+        ], 
+      "alias": "Wild boar"
+      }
+    ]
+  }

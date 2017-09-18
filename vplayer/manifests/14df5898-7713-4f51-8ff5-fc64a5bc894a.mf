@@ -1,0 +1,14 @@
+{ 
+  "guid": "14df5898-7713-4f51-8ff5-fc64a5bc894a", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "61b2931d-d0c2-440c-91b1-db733c9f3cab", 
+      "tags": [ 
+        "Iron"
+        ], 
+      "alias": "Iron"
+      }
+    ]
+  }

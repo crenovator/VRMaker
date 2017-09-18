@@ -1,0 +1,744 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     2111 MB
+    Driver:   21.20.16.4534
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\libVXKMS.dll (this message is harmless)
+Loading C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\libVXKMS.dll into Unity Child Domain
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\ICSharpCode.SharpZipLib.dll (this message is harmless)
+Loading C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\ICSharpCode.SharpZipLib.dll into Unity Child Domain
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\libAnyRes.dll (this message is harmless)
+Loading C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\libAnyRes.dll into Unity Child Domain
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\zxing.unity.dll (this message is harmless)
+Loading C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\zxing.unity.dll into Unity Child Domain
+- Completed reload, in  0.023 seconds
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\easle\AppData\Roaming\vrmaker\player\reviewer_pc\reviewer_pc_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 1920x1080 59Hz; virtual: 1920x1080 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 1.580640 ms
+Logger is working with Fangs.Lib.Logger.ConsoleLogger
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] INFO - Preload VRXX Engine ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] INFO - C:/Users/easle/AppData/LocalLow/ainck/vplayer
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload notify manager ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [NotifyMgr::] INFO - Preload NotifyMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload coroutine manager ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [CoroutineMgr::] INFO - Preload CoroutineMgr  finish 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload resource manager ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [ResourceMgr::] INFO - Preload ResourceMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload canvas manager ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload mixer manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [MixerMgr::] INFO - Preload MixerMgr finish ... 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload agent manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [AgentMgr::] INFO - Preload AgentMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload Camera manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [CameraMgr::] INFO - Preload CameraMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload Bean manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [BeanMgr::] INFO - Preload BeanMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload Cockpit manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [CockpitMgr::] INFO - Preload CockpitMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload Input manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [CockpitMgr::] INFO - Preload CockpitMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload VR manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRMgr::] INFO - Preload VRManager finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload Http manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [CoroutineMgr::] INFO - Preload CoroutineMgr  finish 
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload Slate manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [SlateMgr::] INFO - Preload SlateMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload Block manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [BlockMgr::] INFO - Preload SlateMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload Light manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [BeanMgr::] INFO - Preload BeanMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload Trigger manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [TriggerMgr::] INFO - Preload TriggerMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload UGC manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [UGCMgr::] INFO - Preload UGCMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload signal manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [SignalMgr::] INFO - Preload SignalMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload svm manager ...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [SVMMgr::] INFO - Preload SVMManager finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [VRXX.Engine::] TRACE - preload UI manager...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.000 [TriggerMgr::] INFO - Preload UIMgr finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2e1c -> priority: 1 
+  Thread -> id: 2028 -> priority: 1 
+0.020 [ResourceMgr::] DEBUG - read data [latest.vx] from [file:///C:/Users/easle/AppData/LocalLow/ainck/vplayer\latest.vx]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - Run Bean data, size is  [11525]
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - size of Bean.json is 11513
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - Run Bean {
+    "slates": [
+        {
+            "alias": "1",
+            "guid": "2bba07d9-7dbd-4850-840c-e3d2efbffe4a",
+            "pipes": [
+                {
+                    "actions": [
+                        {
+                            "action": "Entry:OnGazeAccepted",
+                            "guid": "22d2752a-fc0d-4b62-b492-402904dd6fb6",
+                            "params": [
+                                {
+                                    "key": "trigger",
+                                    "value": "1"
+                                }
+                            ]
+                        },
+                        {
+                            "action": "Exit:SwitchSlate",
+                            "guid": "b9e9e024-cca7-4dd6-a6c4-2f71ba02a86d",
+                            "params": [
+                                {
+                                    "key": "slate",
+                                    "value": "2"
+                                }
+                            ]
+                        }
+                    ],
+                    "guid": "533beff4-5269-4c59-8a2e-b2558c25c821"
+                },
+                {
+                    "actions": [
+                        {
+                            "action": "Entry:OnGazeAccepted",
+                            "guid": "c504fd22-5f1f-4b2d-8379-ef2df0c1ceb8",
+                            "params": [
+                                {
+                                    "key": "trigger",
+                                    "value": "4"
+                                }
+                            ]
+                        },
+                        {
+                            "action": "Sound:Play2d",
+                            "guid": "617436ac-d9c0-4ed1-bc1c-6275b9c1bb4c",
+                            "params": [
+                                {
+                                    "key": "package",
+                                    "value": "b28d21b9-feab-4056-aded-b640741794dd"
+                                },
+                                {
+                                    "key": "file",
+                                    "value": "3c97fe09-256e-4dfd-8cf7-96922a2ad563"
+                                },
+                                {
+                                    "key": "track",
+                                    "value": "0"
+                                }
+                            ]
+                        }
+                    ],
+                    "guid": "3ebb4ec1-3dcd-4d01-827c-eca0ab03dcef"
+                },
+                {
+                    "actions": [
+                        {
+                            "action": "Entry:OnGazeAccepted",
+                            "guid": "f5237618-4fd7-4cca-8596-63e63c494d29",
+                            "params": [
+                                {
+                                    "key": "trigger",
+                                    "value": "5"
+                                }
+                            ]
+                        },
+                        {
+                            "action": "Ui:New3DText_Right",
+                            "guid": "f972588d-e5b6-46f0-9d66-ab8575dac22b",
+                            "params": [
+                                {
+                                    "key": "animation",
+                                    "value": "淡入"
+                                },
+                                {
+                                    "key": "background:color:g",
+                                    "value": "0"
+                                },
+                                {
+                                    "key": "text",
+                                    "value": "洱海古代文献中曾称为叶榆泽、昆弥川、西洱河、西二河等，位于云南大理郊区，为云南省第二大淡水湖。"
+                                },
+                                {
+                                    "key": "size",
+                                    "value": "40"
+                                },
+                                {
+                                    "key": "font:color:b",
+                                    "value": "255"
+                                },
+                                {
+                                    "key": "background:color:b",
+                                    "value": "0"
+                                },
+                                {
+                                    "key": "font:color:g",
+                                    "value": "255"
+                                },
+                                {
+                                    "key": "background:color:r",
+                                    "value": "0"
+                                },
+                                {
+                                    "key": "font:color:r",
+                                    "value": "255"
+                                },
+                                {
+                                    "key": "font:color:a",
+                                    "value": "255"
+                                },
+                                {
+                                    "key": "background:color:a",
+                                    "value": "125"
+                                }
+                            ]
+                        }
+                    ],
+                    "guid": "6278bb4c-f770-49ea-959a-160c0643e570"
+                }
+            ],
+            "preloads": [
+                {
+                    "file": "48155958-3acb-48f2-87ed-0de0a8b6e4fd",
+                    "group": "skybox",
+                    "guid": "",
+                    "package": "5fe3651c-3042-4afb-8a4e-852a8aab806f"
+                }
+            ],
+            "triggers": [
+                {
+                    "alias": "1",
+                    "color.a": 255,
+                    "color.b": 255,
+                    "color.g": 255,
+                    "color.r": 255,
+                    "icon": 2,
+                    "px": 1.394224,
+                    "py": -0.5750744,
+                    "pz": -5.80736,
+                    "rx": 5.499999,
+                    "ry": 166.5,
+                    "rz": 4.824689e-07,
+                    "uuid": "d18ca968-0703-414a-92af-ff17b4fc8438"
+                },
+                {
+                    "alias": "4",
+                    "color.a": 255,
+                    "color.b": 255,
+                    "color.g": 255,
+                    "color.r": 85,
+                    "icon": 1,
+                    "px": 0.5736737,
+                    "py": -0.4185388,
+                    "pz": 5.957829,
+                    "rx": 4,
+                    "ry": 5.500006,
+                    "rz": 3.476925e-07,
+                    "uuid": "1e8618f7-ea26-470a-b18c-8a2c2730303e"
+                },
+                {
+                    "alias": "5",
+                    "color.a": 255,
+                    "color.b": 255,
+                    "color.g": 255,
+                    "color.r": 255,
+                    "icon": 0,
+                    "px": -5.501997,
+                    "py": 0.8868565,
+                    "pz": -2.222952,
+                    "rx": 351.5,
+                    "ry": 248,
+                    "rz": -8.632556e-07,
+                    "uuid": "7595b4e2-6f5b-4b04-8fbb-d18516d06fa7"
+                }
+            ]
+        },
+        {
+            "alias": "2",
+            "guid": "dc1b7264-0cec-4666-968f-4c8f9874658f",
+            "pipes": [
+                {
+                    "actions": [
+                        {
+                            "action": "Entry:OnGazeAccepted",
+                            "guid": "e3709506-933f-452e-832e-590e7c41b1df",
+                            "params": [
+                                {
+                                    "key": "trigger",
+                                    "value": "2"
+                                }
+                            ]
+                        },
+                        {
+                            "action": "Exit:SwitchSlate",
+                            "guid": "9f7e7991-d08c-4555-a93e-5140db483bc1",
+                            "params": [
+                                {
+                                    "key": "slate",
+                                    "value": "1"
+                                }
+                            ]
+                        }
+                    ],
+                    "guid": "7e1b9b4b-557d-4c1a-abe6-b75ebe68f6f3"
+                },
+                {
+                    "actions": [
+                        {
+                            "action": "Entry:OnGazeAccepted",
+                            "guid": "10d4303b-cf30-4cdb-9308-a265c47e5dbc",
+                            "params": [
+                                {
+                                    "key": "trigger",
+                                    "value": "3"
+                                }
+                            ]
+                        },
+                        {
+                            "action": "Exit:SwitchSlate",
+                            "guid": "1c3ba121-74e4-4885-b7da-0073a8900c80",
+                            "params": [
+                                {
+                                    "key": "slate",
+                                    "value": "3"
+                                }
+                            ]
+                        }
+                    ],
+                    "guid": "7fc3eab9-022e-4f93-8894-08b0476218d9"
+                }
+            ],
+            "preloads": [
+                {
+                    "file": "101b335e-f769-448d-835c-2af8b8d2a5cf",
+                    "group": "skybox",
+                    "guid": "",
+                    "package": "08043d56-1233-48f6-9f85-94974345784b"
+                }
+            ],
+            "triggers": [
+                {
+                    "alias": "2",
+                    "color.a": 255,
+                    "color.b": 255,
+                    "color.g": 255,
+                    "color.r": 255,
+                    "icon": 2,
+                    "px": 0.6779717,
+                    "py": 2.247639,
+                    "pz": 5.521636,
+                    "rx": 338,
+                    "ry": 7.000006,
+                    "rz": -2.071855e-06,
+                    "uuid": "8a923b5c-3798-428f-9f6d-d7dda1887c28"
+                },
+                {
+                    "alias": "3",
+                    "color.a": 255,
+                    "color.b": 255,
+                    "color.g": 255,
+                    "color.r": 255,
+                    "icon": 2,
+                    "px": -5.986075,
+                    "py": 0.3140158,
+                    "pz": 0.261358,
+                    "rx": 357,
+                    "ry": 272.5,
+                    "rz": -1.068682e-07,
+                    "uuid": "5d88a05c-a51d-4c9f-a28f-ebf1153b4648"
+                }
+            ]
+        },
+        {
+            "alias": "3",
+            "guid": "a36943f4-b0d5-48c2-806a-3bc3ca919614",
+            "pipes": [
+            ],
+            "preloads": [
+                {
+                    "file": "190b74c5-2e11-4437-93dd-1e9e3f3a3226",
+                    "group": "skybox",
+                    "guid": "",
+                    "package": "413248c7-1ae4-46a0-a9eb-77a65728c821"
+                }
+            ],
+            "triggers": [
+            ]
+        }
+    ]
+}
+
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [VRXX.Manager.SlateState::] TRACE - Initialize : 2bba07d9-7dbd-4850-840c-e3d2efbffe4a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - parse blocks
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - link blocks
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - parse preloads
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [SlateMgr::] DEBUG - register asset, guid:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - parse triggers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [VRXX.Manager.SlateState::] TRACE - Initialize : dc1b7264-0cec-4666-968f-4c8f9874658f
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - parse blocks
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - link blocks
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - parse preloads
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [SlateMgr::] DEBUG - register asset, guid:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - parse triggers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [VRXX.Manager.SlateState::] TRACE - Initialize : a36943f4-b0d5-48c2-806a-3bc3ca919614
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - parse blocks
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - link blocks
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - parse preloads
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [SlateMgr::] DEBUG - register asset, guid:
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - parse triggers
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - has 0 ugc files
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [BeanMgr::] INFO - has 0 cache files
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [SlateMgr::] DEBUG - ready load 3 assets
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [SlateMgr::] TRACE - preload asset package:5fe3651c-3042-4afb-8a4e-852a8aab806f file:48155958-3acb-48f2-87ed-0de0a8b6e4fd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [SlateMgr::] TRACE - ready preload asset package:5fe3651c-3042-4afb-8a4e-852a8aab806f file:48155958-3acb-48f2-87ed-0de0a8b6e4fd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+0.042 [ResourceMgr::] DEBUG - load bundle from file:///C:/Users/easle/AppData/LocalLow/ainck/vplayer/pkgs/Win32\5fe3651c-3042-4afb-8a4e-852a8aab806f
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1.454 [ResourceMgr::] DEBUG - load res [5fe3651c-3042-4afb-8a4e-852a8aab806f@48155958-3acb-48f2-87ed-0de0a8b6e4fd] finish...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1.454 [SlateMgr::] TRACE - finish preload asset package:5fe3651c-3042-4afb-8a4e-852a8aab806f file:48155958-3acb-48f2-87ed-0de0a8b6e4fd
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1.454 [SlateMgr::] TRACE - preload asset package:08043d56-1233-48f6-9f85-94974345784b file:101b335e-f769-448d-835c-2af8b8d2a5cf
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1.454 [SlateMgr::] TRACE - ready preload asset package:08043d56-1233-48f6-9f85-94974345784b file:101b335e-f769-448d-835c-2af8b8d2a5cf
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+1.454 [ResourceMgr::] DEBUG - load bundle from file:///C:/Users/easle/AppData/LocalLow/ainck/vplayer/pkgs/Win32\08043d56-1233-48f6-9f85-94974345784b
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2.593 [ResourceMgr::] DEBUG - load res [08043d56-1233-48f6-9f85-94974345784b@101b335e-f769-448d-835c-2af8b8d2a5cf] finish...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2.593 [SlateMgr::] TRACE - finish preload asset package:08043d56-1233-48f6-9f85-94974345784b file:101b335e-f769-448d-835c-2af8b8d2a5cf
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2.593 [SlateMgr::] TRACE - preload asset package:413248c7-1ae4-46a0-a9eb-77a65728c821 file:190b74c5-2e11-4437-93dd-1e9e3f3a3226
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2.593 [SlateMgr::] TRACE - ready preload asset package:413248c7-1ae4-46a0-a9eb-77a65728c821 file:190b74c5-2e11-4437-93dd-1e9e3f3a3226
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+2.593 [ResourceMgr::] DEBUG - load bundle from file:///C:/Users/easle/AppData/LocalLow/ainck/vplayer/pkgs/Win32\413248c7-1ae4-46a0-a9eb-77a65728c821
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3.652 [ResourceMgr::] DEBUG - load res [413248c7-1ae4-46a0-a9eb-77a65728c821@190b74c5-2e11-4437-93dd-1e9e3f3a3226] finish...
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3.652 [SlateMgr::] TRACE - finish preload asset package:413248c7-1ae4-46a0-a9eb-77a65728c821 file:190b74c5-2e11-4437-93dd-1e9e3f3a3226
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3.652 [SlateMgr::] DEBUG - ready run slate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+3.652 [VRXX.Manager.SlateState::] TRACE - OnEnter : 2bba07d9-7dbd-4850-840c-e3d2efbffe4a
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5.727 [1e8618f7-ea26-470a-b18c-8a2c2730303e (SightTrigger)::] DEBUG - sight trigger enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+5.817 [1e8618f7-ea26-470a-b18c-8a2c2730303e (SightTrigger)::] DEBUG - sight trigger exit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6.778 [d18ca968-0703-414a-92af-ff17b4fc8438 (SightTrigger)::] DEBUG - sight trigger enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+6.809 [d18ca968-0703-414a-92af-ff17b4fc8438 (SightTrigger)::] DEBUG - sight trigger exit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+8.331 [7595b4e2-6f5b-4b04-8fbb-d18516d06fa7 (SightTrigger)::] DEBUG - sight trigger enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10.332 [7595b4e2-6f5b-4b04-8fbb-d18516d06fa7 (SightTrigger)::] DEBUG - sighttrigger execute path:2bba07d9-7dbd-4850-840c-e3d2efbffe4a trigger:5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10.332 [VRXX.Manager.Block::] DEBUG - Ready execute block Entry:OnGazeAccepted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+LUA: execute Entry:OnGazeAccepted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10.332 [VRXX.Manager.Block::] DEBUG - Execute block Entry:OnGazeAccepted finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+10.332 [VRXX.Manager.Block::] DEBUG - Ready execute block Ui:New3DText_Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+11.600 [7595b4e2-6f5b-4b04-8fbb-d18516d06fa7 (SightTrigger)::] DEBUG - sight trigger exit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12.150 [7595b4e2-6f5b-4b04-8fbb-d18516d06fa7 (SightTrigger)::] DEBUG - sight trigger enter
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+12.377 [VRXX.Manager.Block::] DEBUG - Execute block Ui:New3DText_Right finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+14.142 [7595b4e2-6f5b-4b04-8fbb-d18516d06fa7 (SightTrigger)::] DEBUG - sighttrigger execute path:2bba07d9-7dbd-4850-840c-e3d2efbffe4a trigger:5
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+14.142 [VRXX.Manager.Block::] DEBUG - Ready execute block Entry:OnGazeAccepted
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+14.152 [VRXX.Manager.Block::] DEBUG - Execute block Entry:OnGazeAccepted finish
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+14.152 [VRXX.Manager.Block::] DEBUG - Ready execute block Ui:New3DText_Right
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+OnApplicationQuit
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+

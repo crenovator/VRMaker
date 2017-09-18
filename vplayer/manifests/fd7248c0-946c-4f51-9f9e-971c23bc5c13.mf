@@ -1,0 +1,14 @@
+{ 
+  "guid": "fd7248c0-946c-4f51-9f9e-971c23bc5c13", 
+  "group": "skybox/skybox", 
+  "alias": "skybox", 
+  "files": [ 
+    { 
+      "file": "0431ddb3-dcb3-4644-ac31-79a587cc7e75", 
+      "tags": [ 
+        "Skybox"
+        ], 
+      "alias": "VR world - sunset 07"
+      }
+    ]
+  }

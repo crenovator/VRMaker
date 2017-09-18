@@ -1,0 +1,13 @@
+{ 
+  "guid": "9ef4518f-fad3-435f-839d-716f504d24ec", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "b29a8c78-a7f8-407b-9b4f-8e6ed606aadd", 
+      "tags": [ 
+        ], 
+      "alias": "Antelope"
+      }
+    ]
+  }

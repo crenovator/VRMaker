@@ -1,0 +1,14 @@
+{ 
+  "guid": "13f32627-3333-45d7-b108-4cc8f6c93e41", 
+  "group": "skybox/skybox", 
+  "alias": "skybox", 
+  "files": [ 
+    { 
+      "file": "cd244e27-b879-49d9-a208-7ff55324cb5c", 
+      "tags": [ 
+        "Skybox"
+        ], 
+      "alias": "VR world - glow"
+      }
+    ]
+  }

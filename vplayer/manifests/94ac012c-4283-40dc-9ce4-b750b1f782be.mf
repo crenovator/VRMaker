@@ -1,0 +1,13 @@
+{ 
+  "guid": "94ac012c-4283-40dc-9ce4-b750b1f782be", 
+  "group": "agent/plants", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "5ce32d59-e57e-4fd0-9a58-4f93ce473d1a", 
+      "tags": [ 
+        ], 
+      "alias": "Haystack"
+      }
+    ]
+  }

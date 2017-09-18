@@ -1,0 +1,13 @@
+{ 
+  "guid": "c4590e28-417a-4549-af31-5e205a74ae95", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "227fd273-770a-4879-a12f-3e96582b1d9c", 
+      "tags": [ 
+        ], 
+      "alias": "Mother dolphins"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{ 
+  "guid": "672fd94a-df81-425c-908c-dd409b9f40f8", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "60d747e5-bbba-4808-ad64-50c61fd2bbc1", 
+      "tags": [ 
+        ], 
+      "alias": "Killer Whale"
+      }
+    ]
+  }

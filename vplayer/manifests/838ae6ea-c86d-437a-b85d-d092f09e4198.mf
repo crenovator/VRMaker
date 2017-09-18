@@ -1,0 +1,13 @@
+{ 
+  "guid": "838ae6ea-c86d-437a-b85d-d092f09e4198", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "fc6af960-e714-40f4-992b-acdca1847781", 
+      "tags": [ 
+        ], 
+      "alias": "Pigeon"
+      }
+    ]
+  }

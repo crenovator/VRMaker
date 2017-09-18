@@ -1,0 +1,14 @@
+{ 
+  "guid": "0ff8c7f1-7b08-4676-91f4-648c350286ce", 
+  "group": "skybox/skybox", 
+  "alias": "skybox", 
+  "files": [ 
+    { 
+      "file": "d87d1876-25c6-4894-a068-f86d88e66da7", 
+      "tags": [ 
+        "Skybox"
+        ], 
+      "alias": "VR world - sunny day 01"
+      }
+    ]
+  }

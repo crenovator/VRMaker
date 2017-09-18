@@ -1,0 +1,13 @@
+{ 
+  "guid": "3d64fc35-efd7-4c81-a65d-58f4b51bb550", 
+  "group": "agent/plants", 
+  "alias": "plants", 
+  "files": [ 
+    { 
+      "file": "c3214b99-6b18-4a63-b70d-a79efe0d6259", 
+      "tags": [ 
+        ], 
+      "alias": "Tree stump"
+      }
+    ]
+  }

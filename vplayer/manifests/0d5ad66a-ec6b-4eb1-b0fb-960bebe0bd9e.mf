@@ -1,0 +1,13 @@
+{ 
+  "guid": "0d5ad66a-ec6b-4eb1-b0fb-960bebe0bd9e", 
+  "group": "agent/ground", 
+  "alias": "ground", 
+  "files": [ 
+    { 
+      "file": "120990dd-c1d4-4f22-8079-a2a43828c45e", 
+      "tags": [ 
+        ], 
+      "alias": "Mountains"
+      }
+    ]
+  }

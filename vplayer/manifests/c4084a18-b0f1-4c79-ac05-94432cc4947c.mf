@@ -1,0 +1,13 @@
+{ 
+  "guid": "c4084a18-b0f1-4c79-ac05-94432cc4947c", 
+  "group": "agent/ground", 
+  "alias": "ground", 
+  "files": [ 
+    { 
+      "file": "347d9124-b938-4232-a535-359bdcffc149", 
+      "tags": [ 
+        ], 
+      "alias": "Sand pile"
+      }
+    ]
+  }

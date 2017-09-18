@@ -1,0 +1,14 @@
+{ 
+  "guid": "17377bda-90ba-4bb7-ae3a-be107765f37c", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "13aae40f-811a-455e-bc5d-57147d0d4b22", 
+      "tags": [ 
+        "GravelNeedles"
+        ], 
+      "alias": "Stone"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{ 
+  "guid": "46c3a2a2-6b96-4702-9e9e-6371848fde82", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "f3b6f785-57a5-4a49-a92d-922114d819f7", 
+      "tags": [ 
+        ], 
+      "alias": "Striped dolphins"
+      }
+    ]
+  }

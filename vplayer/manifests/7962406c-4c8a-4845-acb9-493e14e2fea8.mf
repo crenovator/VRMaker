@@ -1,0 +1,13 @@
+{ 
+  "guid": "7962406c-4c8a-4845-acb9-493e14e2fea8", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "9aae8a7a-ffad-4645-b715-a341d0fe0774", 
+      "tags": [ 
+        ], 
+      "alias": "Camel"
+      }
+    ]
+  }

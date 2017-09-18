@@ -1,0 +1,13 @@
+{ 
+  "guid": "cb89c37c-6814-4375-819f-b9266406812c", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "a0ad6aa8-ee47-401f-bce2-13cdc0e71cbc", 
+      "tags": [ 
+        ], 
+      "alias": "Owl"
+      }
+    ]
+  }

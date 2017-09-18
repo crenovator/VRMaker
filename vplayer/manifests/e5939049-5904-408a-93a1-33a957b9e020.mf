@@ -1,0 +1,14 @@
+{ 
+  "guid": "e5939049-5904-408a-93a1-33a957b9e020", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "1cf70240-156b-4565-a35f-0514ec1e7e25", 
+      "tags": [ 
+        "Grass"
+        ], 
+      "alias": "Grassland7"
+      }
+    ]
+  }

@@ -1,0 +1,14 @@
+{ 
+  "guid": "ad8dd31e-1af7-454c-8b61-d52c10163e9d", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "6bd42a1f-e87a-4282-9a94-bc2e0e5a1803", 
+      "tags": [ 
+        "Stone"
+        ], 
+      "alias": "Stone2"
+      }
+    ]
+  }

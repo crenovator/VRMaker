@@ -1,0 +1,13 @@
+{ 
+  "guid": "c95ea485-8a90-4471-abab-1dffc253d52b", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "7be7b899-7b99-4a9b-a321-b056061b07dd", 
+      "tags": [ 
+        ], 
+      "alias": "Sperm whale"
+      }
+    ]
+  }

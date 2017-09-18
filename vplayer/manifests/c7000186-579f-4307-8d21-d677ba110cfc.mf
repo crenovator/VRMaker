@@ -1,0 +1,13 @@
+{ 
+  "guid": "c7000186-579f-4307-8d21-d677ba110cfc", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "efde16b7-e0f1-4076-b629-6cc19df42d2a", 
+      "tags": [ 
+        ], 
+      "alias": "Leopard"
+      }
+    ]
+  }

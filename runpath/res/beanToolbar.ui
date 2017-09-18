@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>BeanToolbarClass</class>
+ <widget class="QWidget" name="BeanToolbarClass">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>636</width>
+    <height>66</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QWidget#BeanToolbarClass
+{
+	background-color: rgb(215,227,229);
+}
+
+QPushButton#__btnAddBean{
+	border-image: url(:/pluginBean/button/img/create_normal.png);
+}
+QPushButton#__btnAddBean::pressed{
+	border-image: url(:/pluginBean/button/img/create_down.png);
+}
+
+QPushButton#__btnPlayBean{
+	border-image: url(:/pluginBean/button/img/play_normal.png);
+}
+QPushButton#__btnPlayBean::pressed{
+	border-image: url(:/pluginBean/button/img/play_down.png);
+}
+
+QPushButton#__btnPublishBean{
+	border-image: url(:/pluginBean/button/img/publish_normal.png);
+}
+QPushButton#__btnPublishBean::pressed{
+	border-image: url(:/pluginBean/button/img/publish_down.png);
+}
+
+QPushButton#__btnInstallBean{
+	border-image: url(:/pluginBean/button/img/install_normal.png);
+}
+QPushButton#__btnInstallBean::pressed{
+	border-image: url(:/pluginBean/button/img/install_down.png);
+}
+
+QPushButton#__btnDeleteBean{
+	border-image: url(:/pluginBean/button/img/delete_normal.png);
+}
+QPushButton#__btnDeleteBean::pressed{
+	border-image: url(:/pluginBean/button/img/delete_down.png);
+}
+
+QPushButton#__btnEditBean{
+	border-image: url(:/pluginBean/button/img/edit_normal.png);
+}
+QPushButton#__btnEditBean::pressed{
+	border-image: url(:/pluginBean/button/img/edit_down.png);
+}</string>
+  </property>
+  <layout class="QHBoxLayout" name="horizontalLayout">
+   <property name="spacing">
+    <number>12</number>
+   </property>
+   <item>
+    <widget class="QPushButton" name="__btnAddBean">
+     <property name="minimumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <spacer name="horizontalSpacer">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>265</width>
+       <height>43</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item>
+    <widget class="QPushButton" name="__btnEditBean">
+     <property name="minimumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="__btnPlayBean">
+     <property name="minimumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="__btnPublishBean">
+     <property name="minimumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <widget class="QPushButton" name="__btnInstallBean">
+     <property name="minimumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+   <item>
+    <spacer name="horizontalSpacer_2">
+     <property name="orientation">
+      <enum>Qt::Horizontal</enum>
+     </property>
+     <property name="sizeType">
+      <enum>QSizePolicy::Fixed</enum>
+     </property>
+     <property name="sizeHint" stdset="0">
+      <size>
+       <width>36</width>
+       <height>43</height>
+      </size>
+     </property>
+    </spacer>
+   </item>
+   <item>
+    <widget class="QPushButton" name="__btnDeleteBean">
+     <property name="minimumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="maximumSize">
+      <size>
+       <width>31</width>
+       <height>31</height>
+      </size>
+     </property>
+     <property name="text">
+      <string/>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources>
+  <include location="pluginBean.qrc"/>
+ </resources>
+ <connections/>
+</ui>

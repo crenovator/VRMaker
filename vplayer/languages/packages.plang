@@ -1,0 +1,275 @@
+[
+    {
+        "sourcetext": "player",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "游戏"
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "Allen",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "instrument",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "satellite",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "physical",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "物理"
+            },
+            {
+                "language": "en_UK",
+                "targettext": "1"
+            }
+        ]
+    },
+    {
+        "sourcetext": "chemical",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "化学"
+            },
+            {
+                "language": "en_UK",
+                "targettext": "7"
+            }
+        ]
+    },
+    {
+        "sourcetext": "tool",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": "工具"
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "Starry Sky",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "indoor",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "human",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "nature",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "effect",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "lession 1",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "allen",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "声效02",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "background",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "声效",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "others",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "transportation",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "animal",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    },
+    {
+        "sourcetext": "huangshan",
+        "translators": [
+            {
+                "language": "zh_CN",
+                "targettext": ""
+            },
+            {
+                "language": "en_UK",
+                "targettext": ""
+            }
+        ]
+    }
+]

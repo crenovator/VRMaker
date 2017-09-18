@@ -1,0 +1,13 @@
+{ 
+  "guid": "ea502c0a-1f13-4966-9d82-0f723f95c1fa", 
+  "group": "agent/plants", 
+  "alias": "plants", 
+  "files": [ 
+    { 
+      "file": "d0d63420-c7bd-4e9a-a9ae-2374c4ece778", 
+      "tags": [ 
+        ], 
+      "alias": "Dead tree4"
+      }
+    ]
+  }

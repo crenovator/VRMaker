@@ -1,0 +1,13 @@
+{ 
+  "guid": "78c6934b-3b31-44a0-9ed6-e448ef86a3f1", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "1eef6bae-78a9-4495-8a53-479d85dc5a3d", 
+      "tags": [ 
+        ], 
+      "alias": "Squid"
+      }
+    ]
+  }

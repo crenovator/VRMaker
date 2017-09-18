@@ -1,0 +1,13 @@
+{ 
+  "guid": "eb6f84d2-603f-439d-ad8e-01db72db1c0f", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "f295506b-7d5d-4181-bdac-844987eb6db4", 
+      "tags": [ 
+        ], 
+      "alias": "Cock"
+      }
+    ]
+  }

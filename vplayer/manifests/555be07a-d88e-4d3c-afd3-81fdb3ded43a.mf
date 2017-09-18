@@ -1,0 +1,14 @@
+{ 
+  "guid": "555be07a-d88e-4d3c-afd3-81fdb3ded43a", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "64e54620-6581-4673-aca7-670b7b810d73", 
+      "tags": [ 
+        "DirtRedLighter"
+        ], 
+      "alias": "Red soil"
+      }
+    ]
+  }

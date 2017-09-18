@@ -1,0 +1,13 @@
+{ 
+  "guid": "caab09be-ac8e-4f5a-8f85-a986b1e2ebcf", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "542f697e-312d-47ac-b505-c89810f9710b", 
+      "tags": [ 
+        ], 
+      "alias": "Sea eel"
+      }
+    ]
+  }

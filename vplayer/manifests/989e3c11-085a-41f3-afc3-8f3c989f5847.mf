@@ -1,0 +1,13 @@
+{ 
+  "guid": "989e3c11-085a-41f3-afc3-8f3c989f5847", 
+  "group": "agent/ground", 
+  "alias": "ground", 
+  "files": [ 
+    { 
+      "file": "6ccfc621-ca4e-4697-a78a-3bbfdcb3e0b6", 
+      "tags": [ 
+        ], 
+      "alias": "Water surface"
+      }
+    ]
+  }

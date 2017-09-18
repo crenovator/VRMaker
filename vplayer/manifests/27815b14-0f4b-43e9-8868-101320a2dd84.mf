@@ -1,0 +1,13 @@
+{ 
+  "guid": "27815b14-0f4b-43e9-8868-101320a2dd84", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "1d4681ed-e795-49e7-858c-ffa459e424c5", 
+      "tags": [ 
+        ], 
+      "alias": "Duck"
+      }
+    ]
+  }

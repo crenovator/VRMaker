@@ -1,0 +1,13 @@
+{ 
+  "guid": "e045406d-f8a0-43b2-a3f9-ad3e300d9f5c", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "673fcb1f-293e-45cc-9125-be23d2bf7df4", 
+      "tags": [ 
+        ], 
+      "alias": "Cows"
+      }
+    ]
+  }

@@ -1,0 +1,13 @@
+{ 
+  "guid": "b0559171-45a3-4e38-9534-97b0cb38fab8", 
+  "group": "agent/ground", 
+  "alias": "ground", 
+  "files": [ 
+    { 
+      "file": "52a3d7aa-a886-44b5-b4e4-b742e135de9c", 
+      "tags": [ 
+        ], 
+      "alias": "Desert"
+      }
+    ]
+  }

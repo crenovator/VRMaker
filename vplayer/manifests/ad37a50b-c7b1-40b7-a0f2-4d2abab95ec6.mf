@@ -1,0 +1,13 @@
+{ 
+  "guid": "ad37a50b-c7b1-40b7-a0f2-4d2abab95ec6", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "002e292f-d262-4ad5-a266-a1807e789001", 
+      "tags": [ 
+        ], 
+      "alias": "Seagulls"
+      }
+    ]
+  }

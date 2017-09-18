@@ -1,0 +1,14 @@
+{ 
+  "guid": "c6619398-0d5c-4dc4-a594-d462f8f16452", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "569fc144-275f-426c-bceb-0e41bb3e4fc7", 
+      "tags": [ 
+        "Rock"
+        ], 
+      "alias": "Rock2"
+      }
+    ]
+  }

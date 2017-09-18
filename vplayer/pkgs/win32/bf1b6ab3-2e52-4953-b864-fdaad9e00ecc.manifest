@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2735011642
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: db180d0bee3e25310b290c99b4ef1341
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0520077050483de6babb9bd310d40764
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Packages/Skybox/bf1b6ab3-2e52-4953-b864-fdaad9e00ecc/bc9bf2bf-e8f7-455e-a50d-64423f3696db.mat
+Dependencies: []

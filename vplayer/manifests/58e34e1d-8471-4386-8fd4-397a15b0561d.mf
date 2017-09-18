@@ -1,0 +1,14 @@
+{ 
+  "guid": "58e34e1d-8471-4386-8fd4-397a15b0561d", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "b76e1c1e-8c90-44fc-9ac1-2e2f762650e6", 
+      "tags": [ 
+        "Marble"
+        ], 
+      "alias": "Marble"
+      }
+    ]
+  }

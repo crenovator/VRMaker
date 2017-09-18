@@ -1,0 +1,13 @@
+{ 
+  "guid": "0bc8721b-6df4-44b1-ba36-30aec0bab709", 
+  "group": "agent/plants", 
+  "alias": "plants", 
+  "files": [ 
+    { 
+      "file": "f0cc4462-4608-48d6-82aa-7b33d6dfb3d9", 
+      "tags": [ 
+        ], 
+      "alias": "Cedar1"
+      }
+    ]
+  }

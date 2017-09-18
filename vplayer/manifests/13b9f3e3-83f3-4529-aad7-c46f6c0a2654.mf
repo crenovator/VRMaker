@@ -1,0 +1,14 @@
+{ 
+  "guid": "13b9f3e3-83f3-4529-aad7-c46f6c0a2654", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "47f414ba-559d-4d83-a353-44d3db2190a0", 
+      "tags": [ 
+        "Desert"
+        ], 
+      "alias": "Desert"
+      }
+    ]
+  }

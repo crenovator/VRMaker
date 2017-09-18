@@ -1,0 +1,13 @@
+{ 
+  "guid": "f5bb07c2-723e-46c9-b37b-934ef8e3b60b", 
+  "group": "agent/cloud", 
+  "alias": "clouds", 
+  "files": [ 
+    { 
+      "file": "baa9c7e4-e5ce-4768-beea-c3b20f6c528f", 
+      "tags": [ 
+        ], 
+      "alias": "Clouds8"
+      }
+    ]
+  }

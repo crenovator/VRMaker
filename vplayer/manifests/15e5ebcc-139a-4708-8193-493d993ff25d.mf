@@ -1,0 +1,14 @@
+{ 
+  "guid": "15e5ebcc-139a-4708-8193-493d993ff25d", 
+  "group": "agent/cube", 
+  "alias": "VRWorld", 
+  "files": [ 
+    { 
+      "file": "2c58f74a-114c-4189-9107-a0e014c0c11f", 
+      "tags": [ 
+        "Cobble"
+        ], 
+      "alias": "Cobblestone"
+      }
+    ]
+  }

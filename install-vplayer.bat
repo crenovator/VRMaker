@@ -1,0 +1,1 @@
+xcopy /Q/Y/E .\vplayer "%USERPROFILE%\AppData\LocalLow\ainck\vplayer\"

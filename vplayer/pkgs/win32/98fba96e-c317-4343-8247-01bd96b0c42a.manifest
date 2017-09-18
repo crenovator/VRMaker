@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3789615854
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f770ad0da44b91f81192e2b8db767811
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 52adad6783ed1b2389d3411984e73abb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Packages/Agent/98fba96e-c317-4343-8247-01bd96b0c42a/33c8f418-276f-4c22-95a4-0d96b6a3b491.prefab
+Dependencies: []

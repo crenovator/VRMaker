@@ -1,0 +1,13 @@
+{ 
+  "guid": "413248c7-1ae4-46a0-a9eb-77a65728c821", 
+  "group": "skybox/nature", 
+  "alias": "Starry Sky", 
+  "files": [ 
+    { 
+      "file": "190b74c5-2e11-4437-93dd-1e9e3f3a3226", 
+      "tags": [ 
+        ], 
+      "alias": "Huangshan"
+      }
+    ]
+  }

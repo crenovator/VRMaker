@@ -1,0 +1,13 @@
+{ 
+  "guid": "234441f6-dbdf-47aa-b880-948a3ade495d", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "c45cf228-5e2d-427e-b18f-98bfe0a40f52", 
+      "tags": [ 
+        ], 
+      "alias": "Wolf"
+      }
+    ]
+  }

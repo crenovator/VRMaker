@@ -1,0 +1,13 @@
+{ 
+  "guid": "eb4765a2-68a7-42ad-85b1-b7e1e7fb1670", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "1d0ac3cb-0749-4908-9102-b8264461cfc7", 
+      "tags": [ 
+        ], 
+      "alias": "Zebra"
+      }
+    ]
+  }

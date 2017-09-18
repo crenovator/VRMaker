@@ -1,0 +1,13 @@
+{ 
+  "guid": "05b14888-45de-4387-b48f-d21d0fe23885", 
+  "group": "agent/animal", 
+  "alias": "satellite", 
+  "files": [ 
+    { 
+      "file": "14ab79a9-7501-44d1-be3a-49bb3ac05cc2", 
+      "tags": [ 
+        ], 
+      "alias": "Bull"
+      }
+    ]
+  }

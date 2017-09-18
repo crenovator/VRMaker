@@ -1,0 +1,13 @@
+{ 
+  "guid": "99da431f-9d88-49ac-9457-edfc59a70ba6", 
+  "group": "agent/ground", 
+  "alias": "ground", 
+  "files": [ 
+    { 
+      "file": "d9b1c89f-7632-4550-b83d-9dc5fb22fdac", 
+      "tags": [ 
+        ], 
+      "alias": "Mountain side"
+      }
+    ]
+  }
